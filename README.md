@@ -1,6 +1,6 @@
 ## Clone AOSP platform_packages_apps_Messaging
 
-This is the build script to build AOSP Messaging app outside the AOSP source tree using gradle.
+This is the repository to build AOSP Messaging app outside the AOSP source tree using gradle.
 
 
 
